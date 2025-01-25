@@ -1,5 +1,4 @@
-# Chicken-Disease-Classification--Project
-
+# end-to-end-mlops-pipeline-for-classification-tasks
 
 # How to run?
 ### STEPS:
