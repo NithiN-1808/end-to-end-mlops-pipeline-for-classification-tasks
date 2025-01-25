@@ -6,7 +6,7 @@
 Clone the repository
 
 ```bash
-(https://github.com/NithiN-1808/end-to-end-mlops-pipeline-for-classification-tasks)
+https://github.com/NithiN-1808/end-to-end-mlops-pipeline-for-classification-tasks
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
